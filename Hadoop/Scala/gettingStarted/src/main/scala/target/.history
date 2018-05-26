@@ -1,0 +1,14 @@
+run
+quit
+x:
+q:
+q
+exit
+clean compile
+sbt clean
+clean compile
+clean
+exit
+~testQuick
+reload
+exit
