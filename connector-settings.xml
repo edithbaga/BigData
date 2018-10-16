@@ -1,0 +1,10 @@
+<application>
+  <component name="ConnectorSettings">
+    <option name="functionNames">
+      <list>
+        <option value="conectMSSQL-Java" />
+      </list>
+    </option>
+    <option name="lastSelectedFunctionName" value="conectMSSQL-Java" />
+  </component>
+</application>
