@@ -1,4 +1,11 @@
 <code_scheme name="Default" version="173">
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="com.citi.common.common" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
