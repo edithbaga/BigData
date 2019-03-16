@@ -3,6 +3,8 @@
     <option name="alwaysUsedImports">
       <array>
         <option value="com.citi.common.common" />
+        <option value="com.mx.citi.bigdata.common.Log" />
+        <option value="org.scalatest._" />
       </array>
     </option>
   </ScalaCodeStyleSettings>
