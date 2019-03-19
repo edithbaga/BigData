@@ -4,6 +4,7 @@
       <array>
         <option value="com.citi.common.common" />
         <option value="com.mx.citi.bigdata.common.Log" />
+        <option value="com.mx.citi.bigdata.common.dataaccess._" />
         <option value="org.scalatest._" />
       </array>
     </option>
