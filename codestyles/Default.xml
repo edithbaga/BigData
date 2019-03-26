@@ -5,7 +5,12 @@
         <option value="com.citi.common.common" />
         <option value="com.mx.citi.bigdata.common.Log" />
         <option value="com.mx.citi.bigdata.common.dataaccess._" />
+        <option value="hash.SHA256" />
+        <option value="khash.HmacSHA256" />
+        <option value="khash._" />
         <option value="org.scalatest._" />
+        <option value="paddings.PKCS7Padding" />
+        <option value="pddings.PKCS7Paddinga" />
       </array>
     </option>
   </ScalaCodeStyleSettings>
