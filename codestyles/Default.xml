@@ -6,6 +6,8 @@
         <option value="com.mx.citi.bigdata.common.Log" />
         <option value="com.mx.citi.bigdata.common.dataaccess._" />
         <option value="hash.SHA256" />
+        <option value="java.sql.Connection" />
+        <option value="java.sql.DriverManager" />
         <option value="khash.HmacSHA256" />
         <option value="khash._" />
         <option value="org.scalatest._" />
