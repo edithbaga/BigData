@@ -2,6 +2,7 @@
   <ScalaCodeStyleSettings>
     <option name="alwaysUsedImports">
       <array>
+        <option value="better.files._" />
         <option value="com.citi.common.common" />
         <option value="com.mx.citi.bigdata.common.Log" />
         <option value="com.mx.citi.bigdata.common.dataaccess._" />
