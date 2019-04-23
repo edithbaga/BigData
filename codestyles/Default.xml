@@ -14,6 +14,7 @@
         <option value="org.scalatest._" />
         <option value="paddings.PKCS7Padding" />
         <option value="pddings.PKCS7Paddinga" />
+        <option value="scala.util.matching.Regex" />
       </array>
     </option>
   </ScalaCodeStyleSettings>
