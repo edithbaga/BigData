@@ -11,6 +11,8 @@
         <option value="java.sql.DriverManager" />
         <option value="khash.HmacSHA256" />
         <option value="khash._" />
+        <option value="org.apache.poi.xssf.streaming.SXSSFWorkbook" />
+        <option value="org.apache.poi.xssf.usermodel.XSSFWorkbook" />
         <option value="org.scalatest._" />
         <option value="paddings.PKCS7Padding" />
         <option value="pddings.PKCS7Paddinga" />
