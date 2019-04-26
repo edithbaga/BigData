@@ -7,12 +7,15 @@
         <option value="com.mx.citi.bigdata.common.Log" />
         <option value="com.mx.citi.bigdata.common.dataaccess._" />
         <option value="hash.SHA256" />
+        <option value="java.io.File" />
         <option value="java.sql.Connection" />
         <option value="java.sql.DriverManager" />
         <option value="khash.HmacSHA256" />
         <option value="khash._" />
         <option value="org.apache.poi.xssf.streaming.SXSSFWorkbook" />
         <option value="org.apache.poi.xssf.usermodel.XSSFWorkbook" />
+        <option value="org.apache.spark.sql.SQLContext" />
+        <option value="org.apache.spark.sql.SparkSession" />
         <option value="org.scalatest._" />
         <option value="paddings.PKCS7Padding" />
         <option value="pddings.PKCS7Paddinga" />
