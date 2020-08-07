@@ -1,0 +1,15 @@
+<code_scheme name="Default" version="173">
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="spray.httpx.SprayJsonSupport._" />
+      </array>
+    </option>
+    <option name="CALL_PARAMETERS_NEW_LINE_AFTER_LPAREN" value="1" />
+  </ScalaCodeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="PREFER_PARAMETERS_WRAP" value="true" />
+    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
