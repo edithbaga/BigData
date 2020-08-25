@@ -1,0 +1,12 @@
+<code_scheme name="Default" version="173">
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="com.mongodb.connection.connection" />
+        <option value="java.util.concurrent.TimeUnit" />
+        <option value="org.scalatest.FunSuite" />
+        <option value="org.scalatest._" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
+</code_scheme>
